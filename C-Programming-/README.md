@@ -48,7 +48,54 @@ Implements pieces of a MIPS-style simulator, including ALU behavior and instruct
 
 Folder: `projects/mips-alu-simulator`
 
+### Binary Search Tree Level Sum
+
+Builds a binary search tree and finds the sum of nodes at a requested level.
+
+Folder: `projects/bst-level-sum`
+
+### Queue Elimination Simulation
+
+Simulates multiple queues of students using linked-list queue structures and elimination rules.
+
+Folder: `projects/queue-elimination-simulation`
+
+### Recursive Garage Pairing
+
+Uses recursion/backtracking to find a low-distance pairing between garages.
+
+Folder: `projects/recursive-garage-pairing`
+
+### File Tree Line Counter
+
+Walks through files and directories from the command line, with an option to count lines in files.
+
+Folder: `projects/file-tree-line-counter`
+
+### Jumping Frog Dynamic Programming
+
+Uses dynamic programming to calculate the probability of a frog landing on a target position.
+
+Folder: `projects/jumping-frog-dynamic-programming`
+
+### Median Element Selector
+
+Reads an odd-length list of numbers from a file and returns the middle element after ordering the data.
+
+Folder: `projects/median-element-selector`
+
+### Airline Seat Reservation
+
+Small airline seating program that searches first-class and economy sections and prints a boarding-pass style result.
+
+Folder: `projects/airline-seat-reservation`
+
+### Dynamic Name List
+
+Stores names in a dynamically resized list, supports searching and removing names, and frees allocated memory at the end.
+
+Folder: `projects/dynamic-name-list`
+
 ## Notes
 
 Some files still show the original class assignment names or comments because I wanted to keep the work close to how it was submitted. I renamed the folders so the projects are easier to understand on GitHub.
-
