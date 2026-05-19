@@ -1,6 +1,6 @@
 # Systems Programming in C
 
-Small C programs written to practice systems programming fundamentals: memory management, file I/O, string parsing, arrays, bit operations, and command-line builds on Linux/Unix.
+Small C programs I used to practice memory management, file I/O, string parsing, arrays, bit operations, and compiling from the command line.
 
 ## Projects
 
@@ -22,9 +22,9 @@ make
 ./build/word_count README.md
 ```
 
-## What this demonstrates
+## What I practiced
 
 - C structs, arrays, and string handling
 - Input validation and defensive bounds checks
-- Makefile-based compilation with warnings enabled
+- Makefile builds with warnings enabled
 - Linux command-line workflow and Git version control
